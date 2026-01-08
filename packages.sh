@@ -25,7 +25,8 @@ sudo apt install -y \
   vlc \
   synaptic \
   libreoffice-writer \
-  openssh-client
+  openssh-client \
+  ipython3
 
 # -----------------------------
 # Cleanup
